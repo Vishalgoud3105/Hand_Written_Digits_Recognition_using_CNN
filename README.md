@@ -97,6 +97,6 @@ from tensorflow.keras.datasets import mnist
 
 <h3>🔗 Credits</h3>
 <blockquote>
-Developed by <strong>C. Vishal Goud</strong> as part of the Artificial Intelligence Minor Project, November Batch  
-Dataset: <strong>MNIST - Yann LeCun, Corinna Cortes, and Christopher J.C. Burges</strong>
+- Developed by <strong>C. Vishal Goud</strong> as part of the Artificial Intelligence Minor Project (November Batch-2023)
+- Dataset: <strong>MNIST - Yann LeCun, Corinna Cortes, and Christopher J.C. Burges</strong>
 </blockquote>
