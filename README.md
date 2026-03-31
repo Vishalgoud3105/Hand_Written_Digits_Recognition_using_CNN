@@ -100,3 +100,25 @@ from tensorflow.keras.datasets import mnist
 - Developed by <strong>C. Vishal Goud</strong> as part of the Artificial Intelligence Minor Project (November Batch-2023)
 - Dataset: <strong>MNIST - Yann LeCun, Corinna Cortes, and Christopher J.C. Burges</strong>
 </blockquote>
+
+---
+
+<div align="center">
+
+**Built with 💻 and ☕ by Vishal Goud**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/vishalgoud3105)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Vishalgoud3105)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat)](https://vishalgoud3105.github.io/Portfolio/)
+
+---
+
+### 📬 Contact
+
+This repository is **private**. For collaboration inquiries, demo requests, or questions:
+
+📧 **Email**: [vishalgoud3105@gmail.com](mailto:vishalgoud3105@gmail.com)  
+💼 **LinkedIn**: [vishalgoud](http://www.linkedin.com/in/vishalgoud3105)  
+🌐 **Portfolio**: [vishalgoud3105.github.io](https://vishalgoud3105.github.io/Portfolio/)
+
+⭐ **Interested in this project? Reach out!** ⭐
